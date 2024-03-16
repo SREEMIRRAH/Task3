@@ -1,5 +1,5 @@
 .challenge-one {
-    background-image: url("designer_1.svg");
+    background-image: url("Images/designer_1.svg");
     background-repeat: no-repeat;
     background-position: 100%;
     h1{
@@ -61,7 +61,7 @@
     }
 }
 .challenge-three{
-    background-image: url('new.svg');
+    background-image: url('Images/new.svg');
     height: 800px;
     .align-box{
         padding-top: 200px;
